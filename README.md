@@ -9,7 +9,7 @@ A CC (ChallengeCollapsar) DDoS Script Code In Python3
     
 #USAGE
 
-    cd Collapsar
+    cd emir6956v7
     python3 collapsar
 
 Code By GogoZin - Edited By Emir6956
